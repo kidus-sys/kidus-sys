@@ -17,15 +17,19 @@
 
 ---
 
-### 📊 Git Stats & Activity
+### 📊 Performance & Tier Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidus-sys&show_icons=true&theme=tokyonight" alt="Kidus-Sys GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidus-sys&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kidus-sys&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kidus-sys&layout=compact&theme=tokyonight" alt="Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidus-sys&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kidus-sys&theme=tokyonight&no-bg=true&column=7" alt="Trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidus-sys&theme=tokyonight" alt="Contribution Streak" width="100%" />
 </p>
 
 ---
